@@ -1,0 +1,17 @@
+{
+  "repo": "register1",
+
+  "owner": {
+    "username": "lomshapow",
+    "email": "hatman.trv@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "lomshapow", 
+       "value": "1"
+     }
+  },
+
+  "proxied": false
+}
